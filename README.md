@@ -18,7 +18,8 @@ Evaluated  data set using pivot table, built a interactive dashboard with Pie ch
 
 # Pie Chart
 <img width="943" alt="Screenshot 2022-11-07 at 11 34 03 AM" src="https://user-images.githubusercontent.com/114512832/200238699-0793b3b9-e60e-40d3-bf79-9067d98b662a.png">
-# Map
+
+_Map
 <img width="965" alt="Screenshot 2022-11-07 at 11 34 13 AM" src="https://user-images.githubusercontent.com/114512832/200238707-abad131e-3400-46c7-8586-492e9d224a28.png">
 # Bar chart
 <img width="706" alt="Screenshot 2022-11-07 at 11 34 19 AM" src="https://user-images.githubusercontent.com/114512832/200238717-ea0ab665-22f5-4bfc-8dc4-2c53699157d0.png">
