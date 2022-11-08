@@ -3,6 +3,13 @@ Evaluated  data set using pivot table, built a interactive dashboard with Pie ch
 
 # Dashboard
 ![Picture 1 (1)](https://user-images.githubusercontent.com/114512832/200233638-a34ee462-5485-465e-a2fa-54502ee30e4e.png)
+# Insights
+•    Evaluated data set and built dashboard with pivot table .
+•    Used Bar chart, Line chart, water fall chart, pie chart, Maps, Spark Lines and slicers
+•    Created KPI’s such as Total sales, Total Profit, Profit Margin, Sales and Profit Analysis, Sales by State
+•    Learnt imp formulas, conditional formatting, Converting Currency, Number formatting, Count, Sum,
+![image](https://user-images.githubusercontent.com/114512832/200535117-231af2cc-b975-4508-92cf-80b412744760.png)
+
 # Charts ( Individual )
 <img width="911" alt="Screenshot 2022-11-07 at 11 33 45 AM" src="https://user-images.githubusercontent.com/114512832/200238674-aca9b816-bea8-4384-a9db-1f8c33fee8e8.png">
 <img width="586" alt="Screenshot 2022-11-07 at 11 33 55 AM" src="https://user-images.githubusercontent.com/114512832/200238685-df9a724f-b14d-4f41-8531-95a687f0c63c.png">
