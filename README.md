@@ -12,8 +12,10 @@ Evaluated  data set using pivot table, built a interactive dashboard with Pie ch
 # Charts ( Individual )
 # Line and bar combination Chart
 <img width="911" alt="Screenshot 2022-11-07 at 11 33 45 AM" src="https://user-images.githubusercontent.com/114512832/200238674-aca9b816-bea8-4384-a9db-1f8c33fee8e8.png">
+
 # Waterfall chart
 <img width="586" alt="Screenshot 2022-11-07 at 11 33 55 AM" src="https://user-images.githubusercontent.com/114512832/200238685-df9a724f-b14d-4f41-8531-95a687f0c63c.png">
+
 # Pie Chart
 <img width="943" alt="Screenshot 2022-11-07 at 11 34 03 AM" src="https://user-images.githubusercontent.com/114512832/200238699-0793b3b9-e60e-40d3-bf79-9067d98b662a.png">
 # Map
