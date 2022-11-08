@@ -3,7 +3,7 @@ Evaluated  data set using pivot table, built a interactive dashboard with Pie ch
 
 # Dashboard
 ![Picture 1 (1)](https://user-images.githubusercontent.com/114512832/200233638-a34ee462-5485-465e-a2fa-54502ee30e4e.png)
-# Insights
+# Review
 - Evaluated data set and built dashboard with pivot table .
 - Used Bar chart, Line chart, water fall chart, pie chart, Maps, Spark Lines and slicers
 - Created KPI’s such as Total sales, Total Profit, Profit Margin, Sales and Profit Analysis, Sales by State
